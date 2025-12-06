@@ -1,0 +1,40 @@
+
+---
+
+## 🛠️ Setup Instructions
+
+### Step 1: Prepare Files
+- Ensure your main file is named **index.html**.
+- Place all assets in a folder (e.g., `/assets`).
+
+### Step 2: Create Google Account
+- Use a new Google account dedicated to your website.
+
+### Step 3: Upload to Google Drive
+- Create a folder named after your domain (e.g., `www.example.com`).
+- Upload all website files into this folder.
+
+### Step 4: Make Folder Public
+- Right-click → **Share** → Select **Anyone with the link**.
+
+### Step 5: Host via drv.tw
+- Visit [drv.tw](https://drv.tw).
+- Sign in with Google → Allow access.
+- Copy the generated **public URL**.
+
+### Step 6: Fix Broken Images (Optional)
+- Upload images to [imgb.com](https://imgb.com).
+- Replace broken image links in your HTML with the embed code.
+
+### Step 7: Update Website
+- Download → Edit → Re-upload updated HTML files to Google Drive.
+
+### Step 8: Add Custom Domain (Optional)
+- Buy a domain from a registrar.
+- Configure DNS → Add **CNAME record** pointing to your drv.tw URL.
+
+---
+
+## 📌 Example
+Once hosted, your site will be accessible at a URL like:
+
