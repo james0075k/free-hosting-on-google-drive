@@ -23,3 +23,8 @@ It’s based on the tutorial by [Website Learners](https://www.youtube.com/watch
 ---
 
 ## 📂 Project Structure
+/my-website ├── index.html
+# Main entry point ├── style.css 
+# Stylesheet ├── script.js 
+# Optional JavaScript └── assets/ 
+# Images, icons, etc.
